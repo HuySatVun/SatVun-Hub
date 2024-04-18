@@ -3554,7 +3554,7 @@ local function AutoRengoku()
   end
 end
 
-local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local Fluent = loadstring(game:HttpGet("https://github.com/HuySatVun/SatVun-Hub/blob/main/SatVun%20Hub"))()
 local Window = Fluent:CreateWindow({
   Title = "OcCho Hub : Blox Fruits",
   SubTitle = "[ Old Source Free ]",
